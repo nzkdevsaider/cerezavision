@@ -1,0 +1,3 @@
+cv2
+face_recognition
+psycopg2
